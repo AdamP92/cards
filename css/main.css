@@ -3,11 +3,11 @@ html {
   background-color: #f2f2f2;
   font-family: Georgia, Serif;
   line-height: 1.5rem;
-  }
+}
 
 *, *::before, *::after {
   box-sizing: inherit;
-  }
+}
 
 .cards {
   margin: 0;
